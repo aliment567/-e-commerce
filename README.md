@@ -1,4 +1,4 @@
-creamos una base de datos llamada  e-commerce que lleva estas caracteristicas 
+creamos una base de datos llamada  e-commerce que lleva estas caracteristicas: 
 1. Creación y autenticación de usuarios 
 2. Catálogo de productos 
 3. Guardado de productos en carrito de compras 
